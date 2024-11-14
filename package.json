@@ -1,0 +1,15 @@
+{
+  "name": "ui-test-saucedemo",
+  "version": "1.0.0",
+  "description": "Brilliant Machine technical challenge",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Claudio Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.2"
+  }
+}
